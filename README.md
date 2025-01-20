@@ -4,9 +4,10 @@ This repository contains a collection of Python scripts that are designed to sol
 
 Explore the scripts and use them for your learning and automation needs!
 
-I am available for freelance work. Feel free to get in touch!
-- [LinkedIn](www.linkedin.com/in/arthur-trento-768ab660) 
+I am available for freelance work. Feel free to get in touch!   - [LinkedIn](www.linkedin.com/in/arthur-trento-768ab660)
 
+##
+  
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p float="left">
@@ -26,14 +27,9 @@ I am available for freelance work. Feel free to get in touch!
   &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" height="100" />
   
-  
-          
-  
-  
-  
-  
-</p>
 
+
+##
 
 ## List of Scripts:
 
