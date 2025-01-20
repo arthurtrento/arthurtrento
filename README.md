@@ -9,7 +9,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <i class="devicon-mysql-plain-wordmark colored"></i>
 
@@ -21,9 +21,10 @@
 
 - [LinkedIn](www.linkedin.com/in/arthur-trento-768ab660) 
 
+
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/arthurtrento/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
+<img src="stats.gif" width="60%"><br/><br/>
