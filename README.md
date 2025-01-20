@@ -28,7 +28,7 @@ I am available for freelance work. Feel free to get in touch!   - [LinkedIn](www
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" height="100" />
   
 
-
+<!---
 ##
 
 ## List of Scripts:
